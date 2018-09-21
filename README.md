@@ -3,7 +3,7 @@
 Some revision based queries
 
 ## Installation
-Grab in instance from the Wikibase Task repository. Create a "WSrevisions" folder in your Wiki extensions folder and extract the files there.
+Grab an instance from the Wikibase Task repository. Create a "WSrevisions" folder in your Wiki extensions folder and extract the files there.
 Add the following line to your localsettings.php : <pre>require_once( "$IP/extensions/WSrevisions/WSrevisions.php" );</pre>
 
 ### FAQ
